@@ -13,4 +13,3 @@ In this project, I trained a virtual car to drive around various tracks. I creat
 You can see how the car drives by navigating to the [videos](https://github.com/ryanxshah/autonomous-car/tree/main/videos) folder and downloading the videos of interest.
 
 There are 2 videos for each model, the transformer planner and the multilayer perceptron planner. Each video corresponds to a different track.
-a
